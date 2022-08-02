@@ -1,1 +1,1 @@
-# site
+# This is a photography project by Drew Death Photo
